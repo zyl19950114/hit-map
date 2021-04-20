@@ -1,0 +1,100 @@
+{
+  "id": "2446673",
+  "name": "hit-map",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "873510",
+      "name": "热力图",
+      "font_class": "relitu",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "3590953",
+      "name": "清除数据库",
+      "font_class": "qingchushujuku",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "14296168",
+      "name": "测量线段",
+      "font_class": "celiangxianduan",
+      "unicode": "ea09",
+      "unicode_decimal": 59913
+    },
+    {
+      "icon_id": "11017080",
+      "name": "绘制",
+      "font_class": "huizhi",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "1980999",
+      "name": "箭头_右",
+      "font_class": "jiantou",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "712340",
+      "name": "折线图",
+      "font_class": "icon-line-graph",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "2967290",
+      "name": "符号-绘制",
+      "font_class": "fuhao-huizhi",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "10048825",
+      "name": "多边形",
+      "font_class": "duobianxing",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "10048835",
+      "name": "矩形",
+      "font_class": "juxing",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "10989595",
+      "name": "Icon_路径绘制",
+      "font_class": "Icon_lujinghuizhi",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "11428833",
+      "name": "圆形",
+      "font_class": "xianxing",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "12889871",
+      "name": "地图-地块分包-折线选区",
+      "font_class": "ditu-dikuaifenbao-zhexianxuanqu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "19616668",
+      "name": "绘制-01",
+      "font_class": "huizhi-01",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    }
+  ]
+}
